@@ -1,0 +1,11 @@
+.table__thead__color-red th{
+    background-color: red;
+}
+
+.table__thead__color-green th{
+    background-color: green;
+}
+
+.table__thead__color-blue th{
+    background-color: blue;
+}
